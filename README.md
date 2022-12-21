@@ -1,4 +1,4 @@
 # init_git
 
-## bonjour
+## ban
 
